@@ -5,7 +5,7 @@
 
 <hr>
 
-- 👋 Hi, I'm Stevan Mendez
+- 👋 Hi, I'm Josttin Mendez
 - 👀 I am interested in learning and creating in the technology industry.
 - 🌱 I am currently learning Python.
 - 🔎 I am looking to collaborate in dynamic, creative and collaborative groups.
