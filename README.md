@@ -12,11 +12,11 @@
 
 <hr>
 
-<div align="center">
+<p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Stevan-Mendez&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Josttin-M&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
   </a>
-</div>
+</p>
 
 <!---
 Josttin-Mendez-Jala/Josttin-Mendez-Jala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
